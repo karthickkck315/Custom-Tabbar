@@ -7,7 +7,6 @@
 //com.JLL-CarBooking
 
 #import <UIKit/UIKit.h>
-#import "BaseViewController.h"
-@interface AdminDashboardPage : BaseViewController
+@interface AdminDashboardPage : UIViewController
 
 @end
